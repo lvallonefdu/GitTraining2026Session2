@@ -11,6 +11,7 @@ int main()
 	std::cout << "a third change!!!!!" << std::endl;
 	std::cout << "change from prof\n";
 	std::cout << "a fifth change?!?!?!?" << std::endl;
+	std::cout << " a sixth change from prof\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
