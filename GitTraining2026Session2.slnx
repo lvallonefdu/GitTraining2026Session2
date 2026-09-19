@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GitTraining2026Session2/GitTraining2026Session2.vcxproj" />
+</Solution>
